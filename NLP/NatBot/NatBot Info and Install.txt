@@ -1,3 +1,9 @@
+This is a silly project I made that uses a sentiment analyser to create responses based on the assessed sentiment.
+
+It can be fully deployed by following the instructions:
+
+Otherwise, it can be run directly from an IDE, using the first 3 blocks of code. 
+
 
 To compile and turn this into an EXE:
 ensure that Python and Pyinstaller is installed on your PC
