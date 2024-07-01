@@ -1,0 +1,8 @@
+
+To compile and turn this into an EXE:
+ensure that Python and Pyinstaller is installed on your PC
+open cmd
+navigate to path where NatBot.py is located with cd
+
+Run the following in cmd at the location of NatBot.py to generate an EXE:
+pyinstaller --onefile --hidden-import=nltk.sentiment.vader --clean --name=NatBot NatBot.py
